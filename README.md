@@ -1,7 +1,7 @@
-👉 This is a Landing Page, an exercise to practice many things in HTML and CSS.<br>
-📄 Practices in @mediaQueries were also used to make the site as responsive as possible!<br>
+👉 Essa é uma Landing Page, exercício usado para praticar HTML e CSS.
+📄 Praticas em @mediaQueries foram usadas para deixar o site responsivo.
 <hr> 
-📌Image (1) - Original Layout
+📌Image (1) - Layout Original
 
 ![screenPrint3](https://github.com/FelipEspessoto/Landing_Page/assets/98137286/0e24f92c-0dbd-427f-9d7a-e74f26364f61)
 <hr> 
